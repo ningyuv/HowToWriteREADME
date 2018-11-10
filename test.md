@@ -2,15 +2,12 @@
 
 由于协会成员开发能力仍处于一个初级阶段，特向全校招收运营维护人员。
 # 要求：
-- 熟悉Python3/Ruby/JavaScript/PHP等脚本语言(任意一门或多门，急求Node.JS开发者！！！！！)
-- 熟悉Html/CSS等网页开发技术以及Bootstrap/Amaze UI等前端框架
-- 熟悉MTV/MVC等Web设计框架
 - 熟练使用Linux(有服务器运维经验者优先)
-- 了解网络安全技术(防SQL注入，防XSS攻击，进行渗透测试，限制系统底层调用等)
 - 熟练使用Git等工具
+- 熟悉JavaScript等脚本语言(Node.JS优先)
+- 熟悉Html/CSS等网页开发技术以及Bootstrap/Semantic UI等前端框架
 - 能阅读大量代码
-- 了解MySQL/GraphQL/MariaDB/SQLite等数据库实现
-- 熟悉Web程序ORM结构设计
+- 了解MySQL/GraphQL/MariaDB/SQLite等数据库使用
 - 有充足的时间及学习能力
 
 ## 以上皆非必要条件
